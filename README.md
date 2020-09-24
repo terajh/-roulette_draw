@@ -7,7 +7,7 @@
 
 ## 특이사항
 
--> 코드 모듈화
+- 코드 모듈화
     ~~~
     <div id="spin_wheel_container" align="center">
     </div>
